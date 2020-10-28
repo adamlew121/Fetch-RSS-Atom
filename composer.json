@@ -1,0 +1,12 @@
+{
+    "name": "adaml/adam-lewandowski-rekrutacja-hrtec",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "sammyk/package-skeleton": "1.0.*",
+        "phpunit/phpunit": "9"
+    }
+}
